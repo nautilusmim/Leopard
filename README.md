@@ -1,2 +1,3 @@
 # Leopard
-technical communication and summary.
+
+个人网站项目，应用学习的技术，记录自己的学习过程，总结自己的学习成果。
